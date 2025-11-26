@@ -65,5 +65,5 @@ switch2.
 |3|OFF|ON|ON|
 |4|OFF|OFF|OFF|
 
-RESULT:
+## RESULT:
 Thus the staircase wiring is connected and tested.
